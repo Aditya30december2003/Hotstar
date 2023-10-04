@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+  
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,body{
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  scroll-behavior: smooth;
+  background-color: rgb(1, 2, 33);
+}
+body{
+  background: url('./assets/imgs/home-background.png');
+  /* font-family: 'Open Sans', sans-serif; */
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}

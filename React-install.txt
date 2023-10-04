@@ -1,0 +1,9 @@
+1.  npm create vite@latest
+2.  npm i
+
+Tailwind w React Vite-
+1. npm install -D tailwindcss postcss autoprefixer vite
+2. npx tailwindcss init -p
+
+React icons
+npm install react-icons --save
