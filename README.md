@@ -1,2 +1,3 @@
-Hotstar Clone using reactjs and tailwind css
+
+🚀Hotstar Clone using reactjs and tailwind css
 
